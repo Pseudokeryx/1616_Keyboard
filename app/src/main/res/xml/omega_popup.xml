@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="40dp"
+    android:horizontalGap="1.5dp"
+    android:verticalGap="1.5dp"
+    android:keyHeight="50dp"
+    android:keyTextColor="@color/Accent"
+    android:keyBackground="@color/Secondary">
+    <Row>
+        <Key android:keyOutputText="ꭥ" android:keyLabel="ꭥ"/>
+        <Key android:keyOutputText="ὡ" android:keyLabel="ὡ"/>
+        <Key android:keyOutputText="ὠ" android:keyLabel="ὠ"/>
+        <Key android:keyOutputText="ῳ" android:horizontalGap="10dp" android:keyLabel="ῳ"/>
+        <Key android:keyOutputText="ᾡ" android:keyLabel="ᾡ"/>
+        <Key android:keyOutputText="ᾠ" android:keyLabel="ᾠ"/>
+    </Row>
+    <Row>
+        <Key android:keyOutputText="ώ" android:keyLabel="ώ"/>
+        <Key android:keyOutputText="ὥ" android:keyLabel="ὥ"/>
+        <Key android:keyOutputText="ὤ" android:keyLabel="ὤ"/>
+        <Key android:keyOutputText="ῴ" android:horizontalGap="10dp" android:keyLabel="ῴ"/>
+        <Key android:keyOutputText="ᾥ" android:keyLabel="ᾥ"/>
+        <Key android:keyOutputText="ᾤ" android:keyLabel="ᾤ"/>
+    </Row>
+    <Row>
+        <Key android:keyOutputText="ὼ" android:keyLabel="ὼ"/>
+        <Key android:keyOutputText="ὣ" android:keyLabel="ὣ"/>
+        <Key android:keyOutputText="ὢ" android:keyLabel="ὢ"/>
+        <Key android:keyOutputText="ῲ" android:horizontalGap="10dp" android:keyLabel="ῲ"/>
+        <Key android:keyOutputText="ᾣ" android:keyLabel="ᾣ"/>
+        <Key android:keyOutputText="ᾢ" android:keyLabel="ᾢ"/>
+    </Row>
+    <Row>
+        <Key android:keyOutputText="ῶ" android:keyLabel="ῶ"/>
+        <Key android:keyOutputText="ὧ" android:keyLabel="ὧ"/>
+        <Key android:keyOutputText="ὦ" android:keyLabel="ὦ"/>
+        <Key android:keyOutputText="ῷ" android:horizontalGap="10dp" android:keyLabel="ῷ"/>
+        <Key android:keyOutputText="ᾧ" android:keyLabel="ᾧ"/>
+        <Key android:keyOutputText="ᾦ" android:keyLabel="ᾦ"/>
+    </Row>
+</Keyboard>

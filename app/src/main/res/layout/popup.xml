@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00000000"
+    android:padding="2px">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorAccent"
+        android:padding="3px">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#DADADA"
+            android:shadowRadius="0"
+            android:padding="10px">
+
+            <android.inputmethodservice.KeyboardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@android:id/keyboardView"
+                android:keyBackground="@color/Secondary"
+                android:keyTextColor="@color/Accent"
+                android:shadowRadius="0"
+                android:keyWidth="40dp"
+                android:horizontalGap="1.5dp"
+                android:verticalGap="1.5dp"
+                android:keyHeight="50dp"
+                android:keyPreviewOffset="0px"
+                android:keyPreviewLayout="@layout/key_preview"
+                android:background="#DADADA"/>
+
+            <ImageButton
+                android:id="@android:id/closeButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:shadowRadius="0"
+                android:paddingLeft="10px"
+                android:src="@drawable/x_smol" />
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="40dp"
+    android:horizontalGap="1.5dp"
+    android:verticalGap="1.5dp"
+    android:keyHeight="50dp"
+    android:keyTextColor="@color/Accent"
+    android:keyBackground="@color/Secondary">
+    <Row>
+        <Key android:keyOutputText="ù" android:keyLabel="ù"/>
+        <Key android:keyOutputText="ú" android:keyLabel="ú"/>
+        <Key android:keyOutputText="û" android:keyLabel="û"/>
+        <Key android:keyOutputText="ü" android:keyLabel="ü"/>
+        <Key android:keyOutputText="ũ" android:keyLabel="ũ"/>
+    </Row>
+    <Row>
+        <Key android:keyOutputText="ū" android:keyLabel="ū"/>
+        <Key android:keyOutputText="ŭ" android:keyLabel="ŭ"/>
+        <Key android:keyOutputText="ů" android:keyLabel="ů"/>
+        <Key android:keyOutputText="ű" android:keyLabel="ű"/>
+        <Key android:keyOutputText="ų" android:keyLabel="ų"/>
+    </Row>
+</Keyboard>

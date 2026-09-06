@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="40dp"
+    android:horizontalGap="1.5dp"
+    android:verticalGap="1.5dp"
+    android:keyHeight="50dp"
+    android:keyTextColor="@color/Accent"
+    android:keyBackground="@color/Secondary">
+    <Row>
+        <Key android:keyOutputText="ϵ" android:keyLabel="ϵ"/>
+        <Key android:keyOutputText="϶" android:keyLabel="϶"/>
+        <Key android:keyOutputText="ἑ" android:keyLabel="ἑ"/>
+        <Key android:keyOutputText="ἐ" android:keyLabel="ἐ"/>
+    </Row>
+    <Row>
+        <Key android:keyOutputText="έ" android:horizontalGap="41.75dp" android:keyLabel="έ"/>
+        <Key android:keyOutputText="ἕ" android:keyLabel="ἕ"/>
+        <Key android:keyOutputText="ἔ" android:keyLabel="ἔ"/>
+    </Row>
+    <Row>
+        <Key android:keyOutputText="ὲ" android:horizontalGap="41.75dp" android:keyLabel="ὲ"/>
+        <Key android:keyOutputText="ἓ" android:keyLabel="ἓ"/>
+        <Key android:keyOutputText="ἒ" android:keyLabel="ἒ"/>
+    </Row>
+</Keyboard>

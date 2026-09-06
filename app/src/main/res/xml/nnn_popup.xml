@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="40dp"
+    android:horizontalGap="1.5dp"
+    android:verticalGap="1.5dp"
+    android:keyHeight="50dp"
+    android:keyTextColor="@color/Accent"
+    android:keyBackground="@color/Secondary">
+    <Row>
+        <Key android:keyOutputText="n" android:keyLabel="n"/>
+        <Key android:keyOutputText="ɳ" android:keyLabel="ɳ"/>
+        <Key android:keyOutputText="ɲ" android:keyLabel="ɲ"/>
+        <Key android:keyOutputText="ŋ" android:keyLabel="ŋ"/>
+        <Key android:keyOutputText="ɴ" android:keyLabel="ɴ"/>
+        <Key android:keyOutputText="ȵ" android:keyLabel="ȵ"/>
+    </Row>
+    <Row>
+        <Key android:keyOutputText="ƞ" android:keyLabel="ƞ"/>
+        <Key android:keyOutputText="ⁿ" android:keyLabel="ⁿ"/>
+        <Key android:keyOutputText="ᶮ" android:keyLabel="ᶮ"/>
+        <Key android:keyOutputText="ᶯ" android:keyLabel="ᶯ"/>
+        <Key android:keyOutputText="ᵑ" android:keyLabel="ᵑ"/>
+        <Key android:keyOutputText="ᶰ" android:keyLabel="ᶰ"/>
+    </Row>
+</Keyboard>

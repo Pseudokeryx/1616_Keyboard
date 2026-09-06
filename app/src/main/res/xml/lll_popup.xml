@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="40dp"
+    android:horizontalGap="1.5dp"
+    android:verticalGap="1.5dp"
+    android:keyHeight="50dp"
+    android:keyTextColor="@color/Accent"
+    android:keyBackground="@color/Secondary">
+    <Row>
+        <Key android:keyOutputText="l" android:keyLabel="l"/>
+        <Key android:keyOutputText="ɬ" android:keyLabel="ɬ"/>
+        <Key android:keyOutputText="ɭ" android:keyLabel="ɭ"/>
+        <Key android:keyOutputText="ꞎ" android:keyLabel="ꞎ"/>
+        <Key android:keyOutputText="ʟ" android:keyLabel="ʟ"/>
+        <Key android:keyOutputText="ɫ" android:keyLabel="ɫ"/>
+    </Row>
+    <Row>
+        <Key android:keyOutputText="ɮ" android:keyLabel="ɮ"/>
+        <Key android:keyOutputText="ʪ" android:keyLabel="ʪ"/>
+        <Key android:keyOutputText="ʫ" android:keyLabel="ʫ"/>
+        <Key android:keyOutputText="ˡ" android:keyLabel="ˡ"/>
+        <Key android:keyOutputText="ᶩ" android:keyLabel="ᶩ"/>
+        <Key android:keyOutputText="ᶫ" android:keyLabel="ᶫ"/>
+    </Row>
+    <Row>
+        <Key android:keyOutputText="ʎ" android:horizontalGap="5%p" android:keyLabel="ʎ"/>
+        <Key android:keyOutputText="λ" android:keyLabel="λ"/>
+        <Key android:keyOutputText="ƛ" android:keyLabel="ƛ"/>
+        <Key android:keyOutputText="ł" android:keyLabel="ł"/>
+        <Key android:keyOutputText="ȴ" android:keyLabel="ȴ"/>
+    </Row>
+</Keyboard>

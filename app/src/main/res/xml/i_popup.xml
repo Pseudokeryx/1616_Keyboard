@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="40dp"
+    android:horizontalGap="1.5dp"
+    android:verticalGap="1.5dp"
+    android:keyHeight="50dp"
+    android:keyTextColor="@color/Accent"
+    android:keyBackground="@color/Secondary">
+    <Row>
+        <Key android:keyOutputText="i" android:keyLabel="i"/>
+        <Key android:keyOutputText="ì" android:keyLabel="ì"/>
+        <Key android:keyOutputText="í" android:keyLabel="í"/>
+        <Key android:keyOutputText="î" android:keyLabel="î"/>
+        <Key android:keyOutputText="ï" android:keyLabel="ï"/>
+    </Row>
+    <Row>
+        <Key android:keyOutputText="ĩ" android:keyLabel="ĩ"/>
+        <Key android:keyOutputText="ī" android:keyLabel="ī"/>
+        <Key android:keyOutputText="ĭ" android:keyLabel="ĭ"/>
+        <Key android:keyOutputText="į" android:keyLabel="į"/>
+        <Key android:keyOutputText="ı" android:keyLabel="ı"/>
+    </Row>
+</Keyboard>

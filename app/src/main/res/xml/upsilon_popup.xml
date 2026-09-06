@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="40dp"
+    android:horizontalGap="1.5dp"
+    android:verticalGap="1.5dp"
+    android:keyHeight="50dp"
+    android:keyTextColor="@color/Accent"
+    android:keyBackground="@color/Secondary">
+    <Row>
+        <Key android:keyOutputText="ῡ" android:keyLabel="ῡ"/>
+        <Key android:keyOutputText="ῠ" android:keyLabel="ῠ"/>
+        <Key android:keyOutputText="ϋ" android:keyLabel="ϋ"/>
+        <Key android:keyOutputText="ὑ" android:keyLabel="ὑ"/>
+        <Key android:keyOutputText="ὐ" android:keyLabel="ὐ"/>
+    </Row>
+    <Row>
+        <Key android:keyOutputText="ύ" android:horizontalGap="42.5dp" android:keyLabel="ύ"/>
+        <Key android:keyOutputText="ΰ" android:keyLabel="ΰ"/>
+        <Key android:keyOutputText="ὕ" android:keyLabel="ὕ"/>
+        <Key android:keyOutputText="ὔ" android:keyLabel="ὔ"/>
+    </Row>
+    <Row>
+        <Key android:keyOutputText="ȣ" android:keyLabel="ȣ"/>
+        <Key android:keyOutputText="ὺ" android:keyLabel="ὺ"/>
+        <Key android:keyOutputText="ῢ" android:keyLabel="ῢ"/>
+        <Key android:keyOutputText="ὓ" android:keyLabel="ὓ"/>
+        <Key android:keyOutputText="ὒ" android:keyLabel="ὒ"/>
+    </Row>
+    <Row>
+        <Key android:keyOutputText="ῦ" android:horizontalGap="42.5dp" android:keyLabel="ῦ"/>
+        <Key android:keyOutputText="ῧ" android:keyLabel="ῧ"/>
+        <Key android:keyOutputText="ὗ" android:keyLabel="ὗ"/>
+        <Key android:keyOutputText="ὖ" android:keyLabel="ὖ"/>
+    </Row>
+</Keyboard>

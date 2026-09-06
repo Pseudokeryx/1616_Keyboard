@@ -1,0 +1,12 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+        maven { url "https://jitpack.io" }
+        maven { url "https://mvnrepository.com/artifact" }
+    }
+}
+
+rootProject.name = "Project 1616"
+include ':app'

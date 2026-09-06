@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="40dp"
+    android:horizontalGap="1.5dp"
+    android:verticalGap="1.5dp"
+    android:keyHeight="50dp"
+    android:keyTextColor="@color/Accent"
+    android:keyBackground="@color/Secondary">
+    <Row>
+        <Key android:keyOutputText="d" android:keyLabel="d"/>
+        <Key android:keyOutputText="ɖ" android:keyLabel="ɖ"/>
+        <Key android:keyOutputText="ᶑ" android:keyLabel="ᶑ"/>
+        <Key android:keyOutputText="ð" android:keyLabel="ð"/>
+        <Key android:keyOutputText="ȡ" android:keyLabel="ȡ"/>
+        <Key android:keyOutputText="ɗ" android:keyLabel="ɗ"/>
+    </Row>
+    <Row>
+        <Key android:keyOutputText="ᵈ" android:horizontalGap="5%p" android:keyLabel="ᵈ"/>
+        <Key android:keyOutputText="ᶞ" android:keyLabel="ᶞ"/>
+        <Key android:keyOutputText="ʣ" android:keyLabel="ʣ"/>
+        <Key android:keyOutputText="ʤ" android:keyLabel="ʤ"/>
+        <Key android:keyOutputText="ʥ" android:keyLabel="ʥ"/>
+    </Row>
+</Keyboard>

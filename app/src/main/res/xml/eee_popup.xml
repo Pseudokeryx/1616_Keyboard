@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="40dp"
+    android:horizontalGap="1.5dp"
+    android:verticalGap="1.5dp"
+    android:keyHeight="50dp"
+    android:keyTextColor="@color/Accent"
+    android:keyBackground="@color/Secondary">
+    <Row>
+        <Key android:keyOutputText="e" android:keyLabel="e"/>
+        <Key android:keyOutputText="ɘ" android:keyLabel="ɘ"/>
+        <Key android:keyOutputText="ə" android:keyLabel="ə"/>
+        <Key android:keyOutputText="ɚ" android:keyLabel="ɚ"/>
+        <Key android:keyOutputText="ᶒ" android:keyLabel="ᶒ"/>
+        <Key android:keyOutputText="ᶕ" android:keyLabel="ᶕ"/>
+    </Row>
+    <Row>
+        <Key android:keyOutputText="ɛ" android:keyLabel="ɛ"/>
+        <Key android:keyOutputText="ɜ" android:keyLabel="ɜ"/>
+        <Key android:keyOutputText="ɞ" android:keyLabel="ɞ"/>
+        <Key android:keyOutputText="ɝ" android:keyLabel="ɝ"/>
+        <Key android:keyOutputText="ᶓ" android:keyLabel="ᶓ"/>
+        <Key android:keyOutputText="ᶔ" android:keyLabel="ᶔ"/>
+    </Row>
+    <Row>
+        <Key android:keyOutputText="ᵉ" android:keyLabel="ᵉ"/>
+        <Key android:keyOutputText="ᵊ" android:keyLabel="ᵊ"/>
+        <Key android:keyOutputText="ᵋ" android:keyLabel="ᵋ"/>
+        <Key android:keyOutputText="ᵌ" android:keyLabel="ᵌ"/>
+        <Key android:keyOutputText="ᴇ" android:keyLabel="ᴇ"/>
+        <Key android:keyOutputText="ⱻ" android:keyLabel="ⱻ"/>
+    </Row>
+</Keyboard>

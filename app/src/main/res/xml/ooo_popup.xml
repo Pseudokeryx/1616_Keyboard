@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="40dp"
+    android:horizontalGap="1.5dp"
+    android:verticalGap="1.5dp"
+    android:keyHeight="50dp"
+    android:keyTextColor="@color/Accent"
+    android:keyBackground="@color/Secondary">
+    <Row>
+        <Key android:keyOutputText="o" android:keyLabel="o"/>
+        <Key android:keyOutputText="ɔ" android:keyLabel="ɔ"/>
+        <Key android:keyOutputText="ø" android:keyLabel="ø"/>
+        <Key android:keyOutputText="ɵ" android:keyLabel="ɵ"/>
+        <Key android:keyOutputText="œ" android:keyLabel="œ"/>
+        <Key android:keyOutputText="ɶ" android:keyLabel="ɶ"/>
+    </Row>
+    <Row>
+        <Key android:keyOutputText="ᶗ" android:horizontalGap="5%p" android:keyLabel="ᶗ"/>
+        <Key android:keyOutputText="ᵒ" android:keyLabel="ᵒ"/>
+        <Key android:keyOutputText="ᵓ" android:keyLabel="ᵓ"/>
+        <Key android:keyOutputText="ᶱ" android:keyLabel="ᶱ"/>
+        <Key android:keyOutputText="ꟹ" android:keyLabel="ꟹ"/>
+    </Row>
+</Keyboard>

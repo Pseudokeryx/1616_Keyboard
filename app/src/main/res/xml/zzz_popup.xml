@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="40dp"
+    android:horizontalGap="1.5dp"
+    android:verticalGap="1.5dp"
+    android:keyHeight="50dp"
+    android:keyTextColor="@color/Accent"
+    android:keyBackground="@color/Secondary">
+    <Row>
+        <Key android:keyOutputText="z" android:keyLabel="z"/>
+        <Key android:keyOutputText="ʐ" android:keyLabel="ʐ"/>
+        <Key android:keyOutputText="ʑ" android:keyLabel="ʑ"/>
+        <Key android:keyOutputText="ʒ" android:keyLabel="ʒ"/>
+        <Key android:keyOutputText="ʓ" android:keyLabel="ʓ"/>
+    </Row>
+    <Row>
+        <Key android:keyOutputText="ƺ" android:keyLabel="ƺ"/>
+        <Key android:keyOutputText="ᶻ" android:keyLabel="ᶻ"/>
+        <Key android:keyOutputText="ᶼ" android:keyLabel="ᶼ"/>
+        <Key android:keyOutputText="ᶽ" android:keyLabel="ᶽ"/>
+        <Key android:keyOutputText="ᶾ" android:keyLabel="ᶾ"/>
+    </Row>
+</Keyboard>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="keyboard_latin">0</integer>
+    <integer name="keyboard_symbols1">1</integer>
+    <integer name="keyboard_symbols2">2</integer>
+    <integer name="keyboard_symbols3">3</integer>
+    <integer name="keyboard_math">4</integer>
+    <integer name="keyboard_diacritics">5</integer>
+    <integer name="keyboard_greek">6</integer>
+    <integer name="keyboard_cyrillic">7</integer>
+    <integer name="keyboard_hebrew">8</integer>
+    <integer name="keyboard_korean">-9</integer>
+    <integer name="keyboard_korean_alt">-10</integer>
+    <integer name="keyboard_arabic">-11</integer>
+    <integer name="keyboard_diacritics2">12</integer>
+    <integer name="keyboard_georgian_mkhedruli">-13</integer>
+    <integer name="keyboard_emoji1">14</integer>
+    <integer name="keyboard_ipa">15</integer>
+    <integer name="keyboard_hiragana">-16</integer> (todo)
+    <integer name="keyboard_katakana">-17</integer> (todo)
+    <integer name="keyboard_ethiopic">-18</integer> (todo)
+    <integer name="keyboard_armenian">-19</integer>
+    <integer name="keyboard_georgian_asomtavruli">-20</integer>
+    <integer name="keyboard_georgian_nuskhuri">-21</integer>
+    <integer name="keyboard_tibetan">-22</integer>
+    <integer name="keyboard_tibetan_sub">-23</integer>
+
+    <integer name="keyboard_fraktur">-80</integer>
+    <integer name="keyboard_fraktur_cap">-81</integer>
+    <integer name="keyboard_dubstruck">-82</integer>
+    <integer name="keyboard_dubstruck_cap">-83</integer>
+    <integer name="keyboard_cursive">-84</integer>
+    <integer name="keyboard_cursive_cap">-85</integer>
+    <integer name="keyboard_it">-86</integer>
+    <integer name="keyboard_it_cap">-87</integer>
+    <integer name="keyboard_mono">-88</integer>
+    <integer name="keyboard_mono_cap">-89</integer>
+    <integer name="keyboard_superscript">-90</integer>
+    <integer name="keyboard_subscript">-91</integer>
+    <integer name="keyboard_bold">-92</integer>
+    <integer name="keyboard_bold_cap">-93</integer>
+    <integer name="keyboard_full">-94</integer>
+    <integer name="keyboard_full_cap">-95</integer>
+    <integer name="keyboard_sans">-96</integer>
+    <integer name="keyboard_sans_cap">-97</integer>
+    <integer name="keyboard_superscript_cap">-98</integer>
+    <integer name="keyboard_menu">-99</integer>
+    <integer name="keyboard_full_symb">-101</integer>
+    <integer name="keyboard_itgr">-102</integer>
+    <integer name="keyboard_itgr_cap">-103</integer>
+</resources>

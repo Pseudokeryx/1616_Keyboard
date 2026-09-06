@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="40dp"
+    android:horizontalGap="1.5dp"
+    android:verticalGap="1.5dp"
+    android:keyHeight="50dp"
+    android:keyTextColor="@color/Accent"
+    android:keyBackground="@color/Secondary">
+    <Row>
+        <Key android:keyOutputText="t" android:keyLabel="t"/>
+        <Key android:keyOutputText="ʈ" android:keyLabel="ʈ"/>
+        <Key android:keyOutputText="ƭ" android:keyLabel="ƭ"/>
+        <Key android:keyOutputText="ʇ" android:keyLabel="ʇ"/>
+        <Key android:keyOutputText="θ" android:keyLabel="θ"/>
+        <Key android:keyOutputText="ȶ" android:keyLabel="ȶ"/>
+    </Row>
+    <Row>
+        <Key android:keyOutputText="ᵗ" android:horizontalGap="5%p" android:keyLabel="ᵗ"/>
+        <Key android:keyOutputText="ᶿ" android:keyLabel="ᶿ"/>
+        <Key android:keyOutputText="ʦ" android:keyLabel="ʦ"/>
+        <Key android:keyOutputText="ʧ" android:keyLabel="ʧ"/>
+        <Key android:keyOutputText="ʨ" android:keyLabel="ʨ"/>
+    </Row>
+</Keyboard>

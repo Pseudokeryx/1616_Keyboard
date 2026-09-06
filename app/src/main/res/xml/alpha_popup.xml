@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="40dp"
+    android:horizontalGap="1.5dp"
+    android:verticalGap="1.5dp"
+    android:keyHeight="50dp"
+    android:keyTextColor="@color/Accent"
+    android:keyBackground="@color/Secondary">
+    <Row>
+        <Key android:keyOutputText="ᾱ" android:keyLabel="ᾱ"/>
+        <Key android:keyOutputText="ᾰ" android:keyLabel="ᾰ"/>
+        <Key android:keyOutputText="ἁ" android:keyLabel="ἁ"/>
+        <Key android:keyOutputText="ἀ" android:keyLabel="ἀ"/>
+        <Key android:keyOutputText="ᾳ" android:horizontalGap="10dp" android:keyLabel="ᾳ"/>
+        <Key android:keyOutputText="ᾁ" android:keyLabel="ᾁ"/>
+        <Key android:keyOutputText="ᾀ" android:keyLabel="ᾀ"/>
+    </Row>
+    <Row>
+        <Key android:keyOutputText="ά" android:horizontalGap="42.5dp" android:keyLabel="ά"/>
+        <Key android:keyOutputText="ἅ" android:keyLabel="ἅ"/>
+        <Key android:keyOutputText="ἄ" android:keyLabel="ἄ"/>
+        <Key android:keyOutputText="ᾴ" android:horizontalGap="10dp" android:keyLabel="ᾴ"/>
+        <Key android:keyOutputText="ᾅ" android:keyLabel="ᾅ"/>
+        <Key android:keyOutputText="ᾄ" android:keyLabel="ᾄ"/>
+    </Row>
+    <Row>
+        <Key android:keyOutputText="ὰ" android:horizontalGap="42.5dp" android:keyLabel="ὰ"/>
+        <Key android:keyOutputText="ἃ" android:keyLabel="ἃ"/>
+        <Key android:keyOutputText="ἂ" android:keyLabel="ἂ"/>
+        <Key android:keyOutputText="ᾲ" android:horizontalGap="10dp" android:keyLabel="ᾲ"/>
+        <Key android:keyOutputText="ᾃ" android:keyLabel="ᾃ"/>
+        <Key android:keyOutputText="ᾂ" android:keyLabel="ᾂ"/>
+    </Row>
+    <Row>
+        <Key android:keyOutputText="ᾶ" android:horizontalGap="42.5dp" android:keyLabel="ᾶ"/>
+        <Key android:keyOutputText="ἇ" android:keyLabel="ἇ"/>
+        <Key android:keyOutputText="ἆ" android:keyLabel="ἆ"/>
+        <Key android:keyOutputText="ᾷ" android:horizontalGap="10dp" android:keyLabel="ᾷ"/>
+        <Key android:keyOutputText="ᾇ" android:keyLabel="ᾇ"/>
+        <Key android:keyOutputText="ᾆ" android:keyLabel="ᾆ"/>
+    </Row>
+</Keyboard>
