@@ -787,7 +787,7 @@
         <Key android:codes="5" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="åãâ"/>
         <Key android:codes="12" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.05%p" android:keyLabel="a\u0346a\u0321a\u033D"/>
         <Key android:codes="14" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="🇦‌🇧‌🇨"/>
-        <Key android:keyOutputText="@string/Haaha" android:keyWidth="12.1%p" android:keyHeight="40dp" android:keyLabel="DH" android:keyEdgeFlags="right"/>
+        <Key android:keyOutputText="@string/app_name" android:keyWidth="12.1%p" android:keyHeight="40dp" android:keyLabel="DH" android:keyEdgeFlags="right"/>
     </Row>
     <Row android:keyboardMode="@integer/keyboard_emoji1">
         <Key android:keyOutputText="🇶" android:horizontalGap="0.6%p" android:keyLabel="🇶️" android:keyEdgeFlags="left"/>
@@ -2299,7 +2299,7 @@
         <Key android:codes="5" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="åãâ"/>
         <Key android:codes="12" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.05%p" android:keyLabel="a\u0346a\u0321a\u033D"/>
         <Key android:codes="14" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="💀"/>
-        <Key android:keyOutputText="@string/Haaha" android:keyWidth="12.1%p" android:keyHeight="40dp" android:keyLabel="DH" android:keyEdgeFlags="right"/>
+        <Key android:keyOutputText="@string/app_name" android:keyWidth="12.1%p" android:keyHeight="40dp" android:keyLabel="DH" android:keyEdgeFlags="right"/>
     </Row>
     <Row android:keyboardMode="@integer/keyboard_full_symb">
         <Key android:keyOutputText="１" android:horizontalGap="0.6%p" android:keyLabel="１" android:keyEdgeFlags="left"/>
