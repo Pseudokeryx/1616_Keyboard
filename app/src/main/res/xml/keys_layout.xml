@@ -115,14 +115,12 @@
     </Row>
 
     <Row android:keyHeight="40dp" android:keyboardMode="@integer/keyboard_symbols2">
-        <Key android:codes="1" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:horizontalGap="0.6%p" android:keyLabel="123" android:keyEdgeFlags="left"/>
-        <Key android:codes="2" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.05%p" android:keyLabel="{†§"/>
-        <Key android:codes="3" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="⌂«◌"/>
-        <Key android:codes="4" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="∫√∟"/>
-        <Key android:codes="5" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="åãâ"/>
-        <Key android:codes="12" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.05%p" android:keyLabel="a\u0346a\u0321a\u033D"/>
-        <Key android:codes="14" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="🇦‌🇧‌🇨"/>
-        <Key android:keyOutputText="@string/Haaha" android:keyWidth="12.1%p" android:keyHeight="40dp" android:keyLabel="DH" android:keyEdgeFlags="right"/>
+        <Key android:codes="1" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:horizontalGap="0.6%p" android:keyLabel="123" android:keyEdgeFlags="left"/>
+        <Key android:codes="2" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.25%p" android:keyLabel="{†§"/>
+        <Key android:codes="3" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:keyLabel="⌂«◌"/>
+        <Key android:codes="4" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:keyLabel="∫√∟"/>
+        <Key android:codes="5" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.25%p" android:keyLabel="åãâ"/>
+        <Key android:codes="12" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:keyLabel="a\u0346a\u0321a\u033D" android:keyEdgeFlags="right"/>
     </Row>
     <Row android:keyboardMode="@integer/keyboard_symbols2">
         <Key android:keyOutputText="~" android:horizontalGap="0.6%p" android:keyLabel="~" android:keyEdgeFlags="left"/>
@@ -169,14 +167,12 @@
     </Row>
 
     <Row android:keyHeight="40dp" android:keyboardMode="@integer/keyboard_symbols3">
-        <Key android:codes="1" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:horizontalGap="0.6%p" android:keyLabel="123" android:keyEdgeFlags="left"/>
-        <Key android:codes="2" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.05%p" android:keyLabel="{†§"/>
-        <Key android:codes="3" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="⌂«◌"/>
-        <Key android:codes="4" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="∫√∟"/>
-        <Key android:codes="5" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="åãâ"/>
-        <Key android:codes="12" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.05%p" android:keyLabel="a\u0346a\u0321a\u033D"/>
-        <Key android:codes="14" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="🇦‌🇧‌🇨"/>
-        <Key android:keyOutputText="@string/Haaha" android:keyWidth="12.1%p" android:keyHeight="40dp" android:keyLabel="DH" android:keyEdgeFlags="right"/>
+        <Key android:codes="1" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:horizontalGap="0.6%p" android:keyLabel="123" android:keyEdgeFlags="left"/>
+        <Key android:codes="2" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.25%p" android:keyLabel="{†§"/>
+        <Key android:codes="3" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:keyLabel="⌂«◌"/>
+        <Key android:codes="4" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:keyLabel="∫√∟"/>
+        <Key android:codes="5" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.25%p" android:keyLabel="åãâ"/>
+        <Key android:codes="12" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:keyLabel="a\u0346a\u0321a\u033D" android:keyEdgeFlags="right"/>
     </Row>
     <Row android:keyboardMode="@integer/keyboard_symbols3">
         <Key android:keyOutputText="«" android:horizontalGap="0.6%p" android:keyLabel="«" android:keyEdgeFlags="left"/>
@@ -223,14 +219,12 @@
     </Row>
 
     <Row android:keyHeight="40dp" android:keyboardMode="@integer/keyboard_math">
-        <Key android:codes="1" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:horizontalGap="0.6%p" android:keyLabel="123" android:keyEdgeFlags="left"/>
-        <Key android:codes="2" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.05%p" android:keyLabel="{†§"/>
-        <Key android:codes="3" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="⌂«◌"/>
-        <Key android:codes="4" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="∫√∟"/>
-        <Key android:codes="5" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="åãâ"/>
-        <Key android:codes="12" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.05%p" android:keyLabel="a\u0346a\u0321a\u033D"/>
-        <Key android:codes="14" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="🇦‌🇧‌🇨"/>
-        <Key android:keyOutputText="@string/Haaha" android:keyWidth="12.1%p" android:keyHeight="40dp" android:keyLabel="DH" android:keyEdgeFlags="right"/>
+        <Key android:codes="1" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:horizontalGap="0.6%p" android:keyLabel="123" android:keyEdgeFlags="left"/>
+        <Key android:codes="2" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.25%p" android:keyLabel="{†§"/>
+        <Key android:codes="3" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:keyLabel="⌂«◌"/>
+        <Key android:codes="4" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:keyLabel="∫√∟"/>
+        <Key android:codes="5" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.25%p" android:keyLabel="åãâ"/>
+        <Key android:codes="12" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:keyLabel="a\u0346a\u0321a\u033D" android:keyEdgeFlags="right"/>
     </Row>
     <Row android:keyboardMode="@integer/keyboard_math">
         <Key android:keyOutputText="∂" android:horizontalGap="0.6%p" android:keyLabel="∂" android:popupKeyboard="@xml/keys_popup" android:popupCharacters="∆∇" android:keyEdgeFlags="left"/>
@@ -277,14 +271,12 @@
     </Row>
 
     <Row android:keyHeight="40dp" android:keyboardMode="@integer/keyboard_diacritics">
-        <Key android:codes="1" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:horizontalGap="0.6%p" android:keyLabel="123" android:keyEdgeFlags="left"/>
-        <Key android:codes="2" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.05%p" android:keyLabel="{†§"/>
-        <Key android:codes="3" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="⌂«◌"/>
-        <Key android:codes="4" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="∫√∟"/>
-        <Key android:codes="5" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="åãâ"/>
-        <Key android:codes="12" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.05%p" android:keyLabel="a\u0346a\u0321a\u033D"/>
-        <Key android:codes="14" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="🇦‌🇧‌🇨"/>
-        <Key android:keyOutputText="@string/Haaha" android:keyWidth="12.1%p" android:keyHeight="40dp" android:keyLabel="DH" android:keyEdgeFlags="right"/>
+        <Key android:codes="1" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:horizontalGap="0.6%p" android:keyLabel="123" android:keyEdgeFlags="left"/>
+        <Key android:codes="2" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.25%p" android:keyLabel="{†§"/>
+        <Key android:codes="3" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:keyLabel="⌂«◌"/>
+        <Key android:codes="4" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:keyLabel="∫√∟"/>
+        <Key android:codes="5" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.25%p" android:keyLabel="åãâ"/>
+        <Key android:codes="12" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:keyLabel="a\u0346a\u0321a\u033D" android:keyEdgeFlags="right"/>
     </Row>
     <Row android:keyboardMode="@integer/keyboard_diacritics" android:keyTextSize="40sp">
         <Key android:codes="-5, 5" android:keyOutputText="\u030F" android:horizontalGap="0.6%p" android:keyLabel="◌\u030F" android:keyEdgeFlags="left"/>
@@ -673,14 +665,12 @@
     </Row>
 
     <Row android:keyHeight="40dp" android:keyboardMode="@integer/keyboard_diacritics2">
-        <Key android:codes="1" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:horizontalGap="0.6%p" android:keyLabel="123" android:keyEdgeFlags="left"/>
-        <Key android:codes="2" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.05%p" android:keyLabel="{†§"/>
-        <Key android:codes="3" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="⌂«◌"/>
-        <Key android:codes="4" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="∫√∟"/>
-        <Key android:codes="5" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="åãâ"/>
-        <Key android:codes="12" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.05%p" android:keyLabel="a\u0346a\u0321a\u033D"/>
-        <Key android:codes="14" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="🇦‌🇧‌🇨"/>
-        <Key android:keyOutputText="@string/Haaha" android:keyWidth="12.1%p" android:keyHeight="40dp" android:keyLabel="DH" android:keyEdgeFlags="right"/>
+        <Key android:codes="1" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:horizontalGap="0.6%p" android:keyLabel="123" android:keyEdgeFlags="left"/>
+        <Key android:codes="2" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.25%p" android:keyLabel="{†§"/>
+        <Key android:codes="3" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:keyLabel="⌂«◌"/>
+        <Key android:codes="4" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:keyLabel="∫√∟"/>
+        <Key android:codes="5" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.25%p" android:keyLabel="åãâ"/>
+        <Key android:codes="12" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:keyLabel="a\u0346a\u0321a\u033D" android:keyEdgeFlags="right"/>
     </Row>
     <Row android:keyboardMode="@integer/keyboard_diacritics2" android:keyTextSize="40sp">
         <Key android:codes="-12, 12" android:keyOutputText="\u0305" android:horizontalGap="0.6%p" android:keyLabel="◌\u0305" android:keyEdgeFlags="left"/>
