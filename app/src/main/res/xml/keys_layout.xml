@@ -63,14 +63,12 @@
     </Row>
 
     <Row android:keyHeight="40dp" android:keyboardMode="@integer/keyboard_symbols1">
-        <Key android:codes="1" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:horizontalGap="0.6%p" android:keyLabel="123" android:keyEdgeFlags="left"/>
-        <Key android:codes="2" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.05%p" android:keyLabel="{†§"/>
-        <Key android:codes="3" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="⌂«◌"/>
-        <Key android:codes="4" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="∫√∟"/>
-        <Key android:codes="5" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="åãâ"/>
-        <Key android:codes="12" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.05%p" android:keyLabel="a\u0346a\u0321a\u033D"/>
-        <Key android:codes="14" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="12.1%p" android:keyLabel="🇦‌🇧‌🇨‌"/>
-        <Key android:keyOutputText="@string/Haaha" android:keyWidth="12.1%p" android:keyHeight="40dp" android:keyLabel="DH" android:keyEdgeFlags="right"/>
+        <Key android:codes="1" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:horizontalGap="0.6%p" android:keyLabel="123" android:keyEdgeFlags="left"/>
+        <Key android:codes="2" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.25%p" android:keyLabel="{†§"/>
+        <Key android:codes="3" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:keyLabel="⌂«◌"/>
+        <Key android:codes="4" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:keyLabel="∫√∟"/>
+        <Key android:codes="5" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.25%p" android:keyLabel="åãâ"/>
+        <Key android:codes="12" android:keyHeight="40dp" android:keyTextColor="#888888" android:keyWidth="16.2%p" android:keyLabel="a\u0346a\u0321a\u033D" android:keyEdgeFlags="right"/>
     </Row>
     <Row android:keyboardMode="@integer/keyboard_symbols1">
         <Key android:keyOutputText="1" android:horizontalGap="0.6%p" android:popupKeyboard="@xml/keys_popup" android:popupCharacters="¹₁ⅠⅪ⅟" android:keyLabel="1" android:keyEdgeFlags="left"/>
